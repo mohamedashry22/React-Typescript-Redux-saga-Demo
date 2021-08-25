@@ -1,0 +1,9 @@
+enum AppActionTypes {
+    UNSET_PRODUCTS = 'UNSET_PRODUCTS',
+    SET_PRODUCTS = 'SET_PRODUCTS',
+    GET_PRODUCTS = 'GET_PRODUCTS',
+    FETCH_PRODUCTS = 'FETCH_PRODUCTS',
+    SET_DARK_MODE = 'SET_DARK_MODE'
+}
+
+export default AppActionTypes;
